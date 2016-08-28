@@ -5,7 +5,8 @@ const About = () => {
   return (
     <Panel>
       <h2>About</h2>
-      <p>&copy; 2016 <a target="_blank" href="https://github.com/pierlo-upitup">Pierlo</a></p>
+      <p>&copy; 2016 <a target="_blank" href="https://github.com/pierlo-upitup">Pierlo</a>. Source code on
+        <a href="https://github.com/pierlo-upitup/polyrhythmical">GitHub</a></p>
       <h2>Author</h2>
       <p>Pierlo</p>
       <h2>Credits</h2>
