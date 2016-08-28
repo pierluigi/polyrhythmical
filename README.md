@@ -1,6 +1,7 @@
 # Polyrhythmical
 
 An experiment in Web MIDI and polyrhythms written in Javascript.
+Try the [Demo](https://pierlo-upitup.github.io/polyrhythmical).
 
 ![Polyrhythmical](https://raw.githubusercontent.com/pierlo-upitup/polyrhythmical/master/image.png "Polyrhythmical")
 
@@ -8,6 +9,7 @@ An experiment in Web MIDI and polyrhythms written in Javascript.
 # Installation
 
 ### Requirements
+- a recent version of Chrome
 - Node 5
 - npm
 - a MIDI interface (virtual OR physical)
