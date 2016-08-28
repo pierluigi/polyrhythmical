@@ -2,7 +2,7 @@
 
 An experiment in Web MIDI and polyrhythms written in Javascript.
 
-![Polyrhythmical](https://raw.githubusercontent.com/pierlo/polyrhythmical/master/image.png "Polyrhythmical")
+![Polyrhythmical](https://raw.githubusercontent.com/pierlo-upitup/polyrhythmical/master/image.png "Polyrhythmical")
 
 
 # Installation
