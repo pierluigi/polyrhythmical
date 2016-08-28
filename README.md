@@ -34,7 +34,7 @@ php -S localhost:8181 # or any other http server
 Licensed under an MIT License.
 
 # Credits
-Thanks to [https://github.com/cotejp/webmidi](WebMidi) and 
-[https://github.com/mohayonao/web-audio-scheduler](Web Audio Scheduler).
-Based on [https://github.com/facebookincubator/create-react-app](Create React App)
- and [https://www.muicss.com](MUI CSS).</p>
+Thanks to [WebMidi](https://github.com/cotejp/webmidi) and 
+[Web Audio Scheduler](https://github.com/mohayonao/web-audio-scheduler).
+Based on [Create React App](https://github.com/facebookincubator/create-react-app)
+ and [MUI CSS](https://www.muicss.com).
