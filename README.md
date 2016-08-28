@@ -1,13 +1,15 @@
 # Polyrhythmical
 
-An experiment in Web MIDI and polyrhythms written in Javascript.
-Try the [Demo](https://pierlo-upitup.github.io/polyrhythmical).
+An experiment on Web MIDI and polyrhythms written in Javascript.
+Try the [online demo](https://pierlo-upitup.github.io/polyrhythmical).
 
 ![Polyrhythmical](https://raw.githubusercontent.com/pierlo-upitup/polyrhythmical/master/image.png "Polyrhythmical")
 
 # Demo
 
-If you have a recent Chrome version you can try the online [demo](https://pierlo-upitup.github.io/polyrhythmical) or just click the following image to see a video recording of Polyrhytmical in action:
+If you have a recent Chrome version you can try the [online
+demo](https://pierlo-upitup.github.io/polyrhythmical) or watch a video
+recording of Polyrhytmical in action on YouTube:
 
 [![Polyrhythmical video tour](http://img.youtube.com/vi/WLgGamX6BFg/0.jpg)](http://www.youtube.com/watch?v=WLgGamX6BFg "Polyrhythmical video tour")
 
